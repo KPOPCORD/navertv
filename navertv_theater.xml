@@ -4,9 +4,17 @@
         <title>네이버 TV ─ 네이버 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Oct 2021 14:11:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Oct 2021 15:11:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<신비아파트 뮤지컬 시즌4: 비명동산의 초대장> 할로윈 온택트 공연]]></title>
+            <link>https://tv.naver.com/v/23014056</link>
+            <guid>https://tv.naver.com/v/23014056</guid>
+            <pubDate>Sun, 17 Oct 2021 15:11:43 GMT</pubDate>
+            <content:encoded><![CDATA[0:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211017_225/GKKmf_1634482522286LJxsd_JPEG/d08a92aa-2f59-11ec-a331-48df379cca40_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[무용 <2nd Altimeets> 녹화중계 예고영상]]></title>
             <link>https://tv.naver.com/v/22867914</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 08 Oct 2021 02:09:26 GMT</pubDate>
             <content:encoded><![CDATA[0:34]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210608_9/e8fjg_1623155807309ep2gd_JPEG/57cfbef3-c855-11eb-98bc-a0369ff968b0_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬<배니싱> 6월14일_주민진/박규원/조훈 후원라이브 예고]]></title>
-            <link>https://tv.naver.com/v/20376002</link>
-            <guid>https://tv.naver.com/v/20376002</guid>
-            <pubDate>Fri, 08 Oct 2021 02:09:26 GMT</pubDate>
-            <content:encoded><![CDATA[1:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210524_259/4dIBN_1621866928799vsWrV_JPEG/593e74c9-bc9b-11eb-a938-48df37ae3dc4_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
