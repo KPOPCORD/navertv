@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Oct 2021 14:11:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Oct 2021 15:12:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연극 <까뮈의 페스트 : 리버스> 중계 예고 (네이버 TV ─ 네이버 공연)]]></title>
+            <link>https://tv.naver.com/v/23146172</link>
+            <guid>https://tv.naver.com/v/23146172</guid>
+            <pubDate>Sun, 24 Oct 2021 15:12:13 GMT</pubDate>
+            <content:encoded><![CDATA[1:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211024_110/EftNA_1635087390877cUPiH_JPEG/65eec628-34d8-11ec-b39d-48df37ae3fca_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김장훈의 독도 콘서트 생중계 예고 영상 (네이버 TV ─ 네이버 공연)]]></title>
             <link>https://tv.naver.com/v/23140540</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 08 Oct 2021 02:09:26 GMT</pubDate>
             <content:encoded><![CDATA[1:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210617_11/dHb75_1623906146050MLQ3F_JPEG/2ba53234-cf28-11eb-8332-505dac8c35ff_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[𝐓𝐡𝐞 𝟏𝟓𝐭𝐡 𝐃𝐈𝐌𝐅 X 네이버 공연 라이브 (네이버 TV ─ 네이버 공연)]]></title>
-            <link>https://tv.naver.com/v/20797223</link>
-            <guid>https://tv.naver.com/v/20797223</guid>
-            <pubDate>Fri, 08 Oct 2021 02:09:26 GMT</pubDate>
-            <content:encoded><![CDATA[1:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210616_207/tjSnN_1623848020341jaE6F_JPEG/942bd8ce-cea1-11eb-8907-a0369ff952f4_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LISA OUTNOW Unlimited TEASER | 9/14 8PM (네이버TV ─ 네이버 나우)]]></title>
