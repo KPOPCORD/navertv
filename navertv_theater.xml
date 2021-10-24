@@ -4,9 +4,17 @@
         <title>네이버 TV ─ 네이버 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Oct 2021 06:14:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Oct 2021 07:12:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김장훈의 독도 콘서트 생중계 예고 영상]]></title>
+            <link>https://tv.naver.com/v/23140540</link>
+            <guid>https://tv.naver.com/v/23140540</guid>
+            <pubDate>Sun, 24 Oct 2021 07:11:58 GMT</pubDate>
+            <content:encoded><![CDATA[1:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211024_110/8aahB_1635057855051XYfT9_JPEG/7951fb2a-3495-11ec-a331-48df379cca40_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[더 콘서트 : 코레아의 신부 생중계 예고영상]]></title>
             <link>https://tv.naver.com/v/23139346</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 08 Oct 2021 02:09:26 GMT</pubDate>
             <content:encoded><![CDATA[1:25]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210616_207/tjSnN_1623848020341jaE6F_JPEG/942bd8ce-cea1-11eb-8907-a0369ff952f4_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김매자 명인전 <깊은 여름> 중계 예고]]></title>
-            <link>https://tv.naver.com/v/20768077</link>
-            <guid>https://tv.naver.com/v/20768077</guid>
-            <pubDate>Fri, 08 Oct 2021 02:09:26 GMT</pubDate>
-            <content:encoded><![CDATA[1:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210615_51/Fzuzh_1623746315011Ntz12_JPEG/d9a6cf77-cdb3-11eb-a880-48df37ae3fca_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
