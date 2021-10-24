@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Oct 2021 04:15:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Oct 2021 05:10:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[더 콘서트 : 코레아의 신부 생중계 예고영상 (네이버 TV ─ 네이버 공연)]]></title>
+            <link>https://tv.naver.com/v/23139346</link>
+            <guid>https://tv.naver.com/v/23139346</guid>
+            <pubDate>Sun, 24 Oct 2021 05:10:43 GMT</pubDate>
+            <content:encoded><![CDATA[0:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211024_231/6anOD_1635051545299k7wdw_JPEG/3904c093-3485-11ec-a331-48df379cca40_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<신비아파트 뮤지컬 시즌4: 비명동산의 초대장> 할로윈 온택트 공연 (네이버 TV ─ 네이버 공연)]]></title>
             <link>https://tv.naver.com/v/23014056</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 08 Oct 2021 02:09:26 GMT</pubDate>
             <content:encoded><![CDATA[1:48]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210615_51/Fzuzh_1623746315011Ntz12_JPEG/d9a6cf77-cdb3-11eb-a880-48df37ae3fca_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <레드북> 온라인 쇼케이스 예고영상 (네이버 TV ─ 네이버 공연)]]></title>
-            <link>https://tv.naver.com/v/20639322</link>
-            <guid>https://tv.naver.com/v/20639322</guid>
-            <pubDate>Fri, 08 Oct 2021 02:09:26 GMT</pubDate>
-            <content:encoded><![CDATA[0:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210608_9/e8fjg_1623155807309ep2gd_JPEG/57cfbef3-c855-11eb-98bc-a0369ff968b0_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LISA OUTNOW Unlimited TEASER | 9/14 8PM (네이버TV ─ 네이버 나우)]]></title>
