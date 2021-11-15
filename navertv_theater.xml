@@ -4,9 +4,25 @@
         <title>네이버 TV ─ 네이버 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Nov 2021 05:11:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Nov 2021 06:15:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 <원더티켓-수호나무가 있는 마을> - 유회승ver.]]></title>
+            <link>https://tv.naver.com/v/23483635</link>
+            <guid>https://tv.naver.com/v/23483635</guid>
+            <pubDate>Mon, 15 Nov 2021 06:15:16 GMT</pubDate>
+            <content:encoded><![CDATA[1:34:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211112_212/HusWH_1636702863610mbsbF_JPEG/1636702861334.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <원더티켓-수호나무가 있는 마을> - 윤도현ver.]]></title>
+            <link>https://tv.naver.com/v/23483365</link>
+            <guid>https://tv.naver.com/v/23483365</guid>
+            <pubDate>Mon, 15 Nov 2021 06:15:16 GMT</pubDate>
+            <content:encoded><![CDATA[1:34:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211112_146/xDsgQ_1636702851019v6B9G_JPEG/1636702846987.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김현식 추억 콘서트 생중계 예고]]></title>
             <link>https://tv.naver.com/v/23268271</link>
@@ -230,22 +246,6 @@
             <pubDate>Mon, 01 Nov 2021 06:14:40 GMT</pubDate>
             <content:encoded><![CDATA[0:28]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210715_60/x6JnT_1626325451714TE0vd_JPEG/9fdc767f-e528-11eb-901a-505dac8c35ff_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼핑라이브] 라비던스 '프리즘' 발매 기념 라이브!]]></title>
-            <link>https://tv.naver.com/v/21191161</link>
-            <guid>https://tv.naver.com/v/21191161</guid>
-            <pubDate>Mon, 01 Nov 2021 06:14:40 GMT</pubDate>
-            <content:encoded><![CDATA[0:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210707_3/9IJXF_1625654527727cP1Fc_JPEG/89b7f522-df0f-11eb-bb6d-505dac8c381b_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <땡큐 베리 스트로베리> 생중계 예고]]></title>
-            <link>https://tv.naver.com/v/20890034</link>
-            <guid>https://tv.naver.com/v/20890034</guid>
-            <pubDate>Mon, 01 Nov 2021 06:14:40 GMT</pubDate>
-            <content:encoded><![CDATA[1:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210621_248/jOs99_1624262599897iGKO0_JPEG/9a4c5bf9-d264-11eb-8907-a0369ff952f4_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
