@@ -4,17 +4,9 @@
         <title>네이버 TV ─ 네이버 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Nov 2021 05:11:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Nov 2021 06:15:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[김장훈과 영탁의 <가족> 힐링콘서트 예고영상]]></title>
-            <link>https://tv.naver.com/v/23567832</link>
-            <guid>https://tv.naver.com/v/23567832</guid>
-            <pubDate>Tue, 16 Nov 2021 15:13:07 GMT</pubDate>
-            <content:encoded><![CDATA[1:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211116_25/Z4d1n_1637072108506lhEi3_JPEG/dc715596-46e6-11ec-b39d-48df37ae3fca_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[뮤지컬 <원더티켓 – 수호나무가 있는 마을> 유회승 Ver.]]></title>
             <link>https://tv.naver.com/v/23545224</link>
@@ -246,6 +238,14 @@
             <pubDate>Mon, 01 Nov 2021 06:14:40 GMT</pubDate>
             <content:encoded><![CDATA[0:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210727_187/95ich_16273759700794Gpob_JPEG/2ab62ce8-eeb7-11eb-919a-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자라섬 온라인 올라잇 재즈 페스티벌 예고 영상]]></title>
+            <link>https://tv.naver.com/v/21337166</link>
+            <guid>https://tv.naver.com/v/21337166</guid>
+            <pubDate>Fri, 19 Nov 2021 06:14:58 GMT</pubDate>
+            <content:encoded><![CDATA[0:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210715_60/x6JnT_1626325451714TE0vd_JPEG/9fdc767f-e528-11eb-901a-505dac8c35ff_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
